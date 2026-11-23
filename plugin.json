@@ -1,0 +1,11 @@
+{
+  "id": "rose-pine-dawn",
+  "name": "Rosé Pine Dawn",
+  "description": "All natural pine, faux fur and a bit of soho vibes — sunlit dawn rose palette for MikuTV.",
+  "kind": "theme",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "minAppVersion": "0.1.0",
+  "license": "Apache-2.0",
+  "theme": "theme.json"
+}
